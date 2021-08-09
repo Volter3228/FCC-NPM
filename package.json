@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Vouchik Morozov",
   "description": "This is project for learning Backend on FreeCodeCamp",
+  "keywords": [
+    "npm",
+    "nodejs",
+    "freecodecamp",
+    "learning"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
